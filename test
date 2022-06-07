@@ -822,7 +822,6 @@ do
 		return window
 	end
 end
-
 aimbot:Turn(true)
 -- // Returning
 return library, utility, obelus
